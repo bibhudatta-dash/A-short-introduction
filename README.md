@@ -1,8 +1,8 @@
 # Hi there, I'm **Bibhudatta Dash** 👋
 
 🎓 **MCA Graduate (2026)**  
-💻 **Aspiring IT Support & System Administration Professional**  
-🖥️ Windows Administration | Networking | Troubleshooting | Technical Support  
+💻 **AI Automation Builder**  
+ Python • APIs • Backend Systems | Building tools that eliminate repetitive business work 
 📍 From **Balasore, Odisha, India**
 
 ---
