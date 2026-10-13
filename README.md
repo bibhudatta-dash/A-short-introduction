@@ -20,8 +20,6 @@ Currently improving my skills in:
 - Git & Documentation
 - Basic Scripting and Automation
 
-I am actively building hands-on IT support projects and labs to become industry-ready for Technical Support and IT Support Engineer roles.
-
 ---
 
 ## 🛠️ Skills & Technologies
