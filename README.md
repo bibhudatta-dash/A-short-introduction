@@ -79,9 +79,8 @@ CRUD-based Django application for managing student records and database operatio
 - LinkedIn:  
   www.linkedin.com/in/bibhudatta-dash-4390b0205
 
-- GitHub:  
-  github.com/bibhu1207-design
-
+- GitHub:
+  https://github.com/bibhudatta-dash
 - Email:  
   bibhu1207@gmail.com
 
